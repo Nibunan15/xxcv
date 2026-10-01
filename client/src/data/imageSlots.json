@@ -1,0 +1,194 @@
+{
+  "offer-1": {
+    "src": "/assets/slots/offer-1.webp",
+    "scale": 1,
+    "x": 0,
+    "y": 0
+  },
+  "hero-5": {
+    "src": "/assets/slots/hero-5.webp",
+    "scale": 1,
+    "x": 0,
+    "y": 0
+  },
+  "hero-1": {
+    "src": "/assets/slots/hero-1.webp",
+    "scale": 1,
+    "x": 0,
+    "y": 21.234382053172055
+  },
+  "hero-2": {
+    "src": "/assets/slots/hero-2.webp",
+    "scale": 1,
+    "x": 0,
+    "y": 7.525768670760981
+  },
+  "ab-founder": {
+    "src": "/assets/slots/ab-founder.webp",
+    "scale": 1,
+    "x": 0,
+    "y": 8.236292213268879
+  },
+  "hero-4": {
+    "src": "/assets/slots/hero-4.webp",
+    "scale": 1.0006501468666398,
+    "x": -0.0325073433319889,
+    "y": 13.838255699159848
+  },
+  "hero-3": {
+    "src": "/assets/slots/hero-3.webp",
+    "scale": 1.4906185316147675,
+    "x": 7.41749168073879,
+    "y": 24.530926580738377
+  },
+  "eco-main-5": {
+    "src": "/assets/slots/eco-main-5.webp",
+    "scale": 1,
+    "x": 0,
+    "y": 0
+  },
+  "eco-main-3": {
+    "src": "/assets/slots/eco-main-3.webp",
+    "scale": 1,
+    "x": 0,
+    "y": 0
+  },
+  "eco-main-6": {
+    "src": "/assets/slots/eco-main-6.webp",
+    "scale": 1,
+    "x": 0,
+    "y": 0
+  },
+  "eco-main-2": {
+    "src": "/assets/slots/eco-main-2.webp",
+    "scale": 1,
+    "x": 0,
+    "y": 0
+  },
+  "gen-hero": {
+    "src": "/assets/slots/gen-hero.webp",
+    "scale": 1,
+    "x": 0,
+    "y": 0
+  },
+  "fsd-hero": {
+    "src": "/assets/slots/fsd-hero.webp",
+    "scale": 1,
+    "x": 0,
+    "y": 0
+  },
+  "trio-slide-1": {
+    "src": "/assets/slots/trio-slide-1.webp",
+    "scale": 1,
+    "x": 0,
+    "y": 38.75923156738281
+  },
+  "fsd-slide-1": {
+    "src": "/assets/slots/fsd-slide-1.webp",
+    "scale": 1,
+    "x": 0,
+    "y": 0
+  },
+  "fsd-hero-video-poster": {
+    "src": "/assets/slots/fsd-hero-video-poster.webp",
+    "scale": 1,
+    "x": 0,
+    "y": 0
+  },
+  "fsd-slide-3": {
+    "src": "/assets/slots/fsd-slide-3.webp",
+    "scale": 1,
+    "x": 0,
+    "y": 28.294516509433965
+  },
+  "serve-students": {
+    "src": "/assets/slots/serve-students.webp",
+    "scale": 1,
+    "x": 0,
+    "y": 54.04610454458886
+  },
+  "serve-colleges": {
+    "src": "/assets/slots/serve-colleges.webp",
+    "scale": 1,
+    "x": 1.1102230246251565e-14,
+    "y": 75.67869034102493
+  },
+  "fsd-w1": {
+    "src": "/assets/slots/fsd-w1.webp",
+    "scale": 1,
+    "x": 0,
+    "y": 0
+  },
+  "trio-w1": {
+    "src": "/assets/slots/trio-w1.webp",
+    "scale": 1,
+    "x": 0,
+    "y": 0
+  },
+  "programs-w1": {
+    "src": "/assets/slots/programs-w1.webp",
+    "scale": 1,
+    "x": 0,
+    "y": 0
+  },
+  "hs-community": {
+    "src": "/assets/slots/hs-community.webp",
+    "scale": 1,
+    "x": 0,
+    "y": 0
+  },
+  "hs-students": {
+    "src": "/assets/slots/hs-students.webp",
+    "scale": 1,
+    "x": 0,
+    "y": 0
+  },
+  "recog-msme": {
+    "src": "/assets/slots/recog-msme.webp",
+    "scale": 1,
+    "x": 0,
+    "y": 0
+  },
+  "recog-iso": {
+    "src": "/assets/slots/recog-iso.webp",
+    "scale": 1,
+    "x": 0,
+    "y": 0
+  },
+  "recog-startup": {
+    "src": "/assets/slots/recog-startup.webp",
+    "scale": 1,
+    "x": 0,
+    "y": 0
+  },
+  "recog-ltd": {
+    "src": "/assets/slots/recog-ltd.webp",
+    "scale": 1,
+    "x": 0,
+    "y": 0
+  },
+  "recog-dpiit": {
+    "src": "/assets/slots/recog-dpiit.webp",
+    "scale": 1,
+    "x": 0,
+    "y": 0
+  },
+  "partner-4": {
+    "src": "/assets/slots/partner-4.webp",
+    "scale": 1,
+    "x": 0,
+    "y": 0
+  },
+  "hv-a-1": {
+    "src": "/assets/slots/hv-a-1.webp",
+    "scale": 1,
+    "x": 0,
+    "y": 0
+  },
+  "partner-12": {
+    "src": "/assets/slots/partner-12.webp",
+    "scale": 1,
+    "x": 0,
+    "y": 0
+  }
+}

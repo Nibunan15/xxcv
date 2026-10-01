@@ -1,0 +1,6 @@
+:root{--g1:#2F7BFF;--g2:#7C3AED;--g3:#1FD3E8;--ink:#0A1124;--muted:#475569}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{background:#fff;color:var(--ink);font-family:Poppins,system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+h1,h2,h3,h4{font-family:'Radio Canada Big',Poppins,sans-serif}
+a{color:var(--g1);text-decoration:none}a:hover{color:var(--g3)}
+img,video{max-width:100%;display:block}
